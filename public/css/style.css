@@ -1,0 +1,26 @@
+*,
+*:before,
+*:after {
+    font-family: JetBrains, Verdana, Geneva, Tahoma, sans-serif, 'Courier New', Courier, monospace;
+    margin: 0px;
+    padding: 0px;
+}
+
+@font-face {
+    font-family: JetBrains;
+    src: url(JetBrains.ttf)
+}
+
+.header {
+    color: rgb(14,14,65);
+}
+
+.logo {
+    margin-top: 5vh;
+    margin-left: 5vw;
+}
+
+.motto {
+    margin-left: 10vw;
+    font-style: italic;
+}
